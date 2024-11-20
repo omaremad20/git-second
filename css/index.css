@@ -1,0 +1,47 @@
+div
+{
+    text-align: center;
+}
+button
+{
+    all: unset;
+}
+button
+{
+    padding-block: 1.25rem;
+    padding-inline: 2.5rem;
+    background-color: rgb(113, 113, 113);
+    color:rgb(232, 230, 227);
+    transition: background-color ease-in-out 0.3s;
+    border-radius: 5px;
+    font-size: 1.25rem;
+    font-family: "Montserrat", serif;
+}
+h1
+{
+    color: #000000;
+    font-weight: 700;
+    font-size: 5rem;
+    font-family: "Montserrat", serif;
+}
+p
+{
+    color: #000000;
+    font-weight: 400;
+    font-size: 2.1875rem;
+    font-family: "Montserrat", serif;
+}
+button:hover
+{
+    background-color: gray;
+}
+#mainpara
+{
+    font-family: "Sour Gummy", sans-serif;
+
+}
+#main
+{
+    width: 80%;
+    margin: auto;
+}
